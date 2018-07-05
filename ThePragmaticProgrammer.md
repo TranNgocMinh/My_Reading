@@ -25,33 +25,41 @@ range of technologies and environments, and you work to keep
 abreast of new developments. Although your current job may require
 you to be a specialist, you will always be able to move on to new areas
 and new challenges.<br>
+
 # Building Your Portfolio
-Invest regularly. Just as in financial investing, you must
+
+<h4>Invest regularly.</h4> 
+Just as in financial investing, you must
 invest in your knowledge portfolio regularly. Even if it's just a small
 amount, the habit itself is as important as the sums. <br>
-Diversify. The more different things you know, the more
+<h4>Diversify.</h4> 
+The more different things you know, the more
 valuable you are. As a baseline, you need to know the ins and outs of
 the particular technology you are working with currently. But don't
 stop there. The face of computing changes rapidly—hot technology
 today may well be close to useless (or at least not in demand)tomorrow. The more technologies you are comfortable with, the
 better you will be able to adjust to change.<br>
-Manage risk. Technology exists along a spectrum from risky,
+<h4>Manage risk.</h4> 
+Technology exists along a spectrum from risky,
 potentially high-reward to low-risk, low-reward standards. It's not a
 good idea to invest all of your money in high-risk stocks that might
 collapse suddenly, nor should you invest all of it conservatively and
 miss out on possible opportunities. Don't put all your technical eggs
 in one basket.<br>
-Buy low, sell high. Learning an emerging technology before it
+<h4>Buy low, sell high.</h4> 
+Learning an emerging technology before it
 becomes popular can be just as hard as finding an undervalued stock,
 but the payoff can be just as rewarding. Learning Java when it first
 came out may have been risky, but it paid off handsomely for the
 early adopters who are now at the top of that field.<br>
-Review and rebalance. This is a very dynamic industry. That
+<h4>Review and rebalance.</h4> 
+This is a very dynamic industry. That
 hot technology you started investigating last month might be stone
 cold by now. Maybe you need to brush up on that database
 technology that you haven't used in a while. Or perhaps you could be
 better positioned for that new job opening if you tried out that other
 language….<br>
+
 # Goals
 Learn at least one new language every year. Different
 languages solve the same problems in different ways. By learning
