@@ -61,33 +61,38 @@ better positioned for that new job opening if you tried out that other
 language….<br>
 
 # Goals
-Learn at least one new language every year. Different
-languages solve the same problems in different ways. By learning
+
+<h4>Learn at least one new language every year.</h4> 
+Different languages solve the same problems in different ways. By learning
 several different approaches, you can help broaden your thinking
 and avoid getting stuck in a rut. Additionally, learning many
 languages is far easier now, thanks to the wealth of freely available
 software on the Internet <br>
-Read a technical book each quarter. Bookstores are full of
-technical books on interesting topics related to your current project.
+<h4>Read a technical book each quarter.</h4> 
+Bookstores are full of technical books on interesting topics related to your current project.
 Once you're in the habit, read a book a month. After you've masteredthe technologies you're currently using, branch out and study some
 that don't relate to your project.<br>
-Read nontechnical books, too. It is important to remember
+<h4>Read nontechnical books, too.</h4> 
+It is important to remember
 that computers are used by people—people whose needs you are
 trying to satisfy. Don't forget the human side of the equation.<br>
 Take classes. Look for interesting courses at your local
 community college or university, or perhaps at the next trade show
 that comes to town.<br>
-Participate in local user groups. Don't just go and listen, but
+<h4>Participate in local user groups.</h4> 
+Don't just go and listen, but
 actively participate. Isolation can be deadly to your career; find out
 what people are working on outside of your company.<br>
 Experiment with different environments. If you've worked
 only in Windows, play with Unix at home (the freely available Linux
 is perfect for this). If you've used only makefiles and an editor, try an
 IDE, and vice versa.<br>
-Stay current. Subscribe to trade magazines and other journals
+<h4>Stay current.</h4> 
+Subscribe to trade magazines and other journals
 (see page 262 for recommendations). Choose some that cover
 technology different from that of your current project.<br>
-Get wired. Want to know the ins and outs of a new language or
+<h4>Get wired.</h4> 
+Want to know the ins and outs of a new language or
 other technology? Newsgroups are a great way to find out what
 experiences other people are having with it, the particular jargon
 they use, and so on. Surf the Web for papers, commercial sites, and
