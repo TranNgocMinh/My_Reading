@@ -48,7 +48,7 @@ cold by now. Maybe you need to brush up on that database
 technology that you haven't used in a while. Or perhaps you could be
 better positioned for that new job opening if you tried out that other
 language….<br>
-#Goals
+# Goals
 Learn at least one new language every year. Different
 languages solve the same problems in different ways. By learning
 several different approaches, you can help broaden your thinking
