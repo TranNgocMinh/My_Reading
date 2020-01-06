@@ -7,7 +7,7 @@
 5. Don't Make Me Think - A Common Sense Approach to Web Usability (<a href="http://wireframe.vn/books/Don't%20Make%20Me%20Think%20-%20A%20Common%20Sense%20Approach%20To%20Web%20Usability%20(Second%20Edition)%20(2006).pdf" target=_blank>Download Free PDF</a>)<br>
 6. Factfulness - A gift from <a href="https://www.gatesnotes.com/About-Bill-Gates/My-gift-to-college-graduates">Bill Gates</a> (<a href = "https://github.com/TranNgocMinh/MyReading2018/blob/master/Factfulness.epub">download epub file</a>)
 
-# These are the books I will read in 2019:
+# These are the books I will read in 2019 & 2020:
 1. Artificial Intelligence: A Modern Approach (3rd Edition) (<a href="https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf">Download Free PDF</a>)
 2. Code Complete: A Practical Handbook of Software Construction, Second Edition (<a href="http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf">Download Free PDF</a>)
 3. Reafactoring: Improving the Design of Existing Code (<a href="https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf">Download Free PDF</a>)
