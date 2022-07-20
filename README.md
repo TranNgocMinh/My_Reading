@@ -1,4 +1,4 @@
-# The books I will read in 2018 - 2022:
+# The books I (will) read in 2018 - 2022:
 
 1. Clean Code (<a href="http://ricardogeek.com/docs/r_clean_code.pdf" target=_blank>Download Free PDF </a>)<br>
 2. The Pragmatic Programmer - From Journeyman To Master <a href="https://github.com/TranNgocMinh/MyReading2018/blob/master/ThePragmaticProgrammer.md">I love this</a> | <a href="http://210.240.189.214/gamedesign/type_exercise/00_9615_reference//5.%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E5%8F%83%E8%80%83/23/books/1999%20-%20The%20Pragmatic%20Programmer;%20From%20Journeyman%20To%20Master%20-%20Pearson%20Education.pdf" target=_blank>Download Free PDF</a><br>
